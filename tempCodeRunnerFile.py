@@ -19,13 +19,14 @@ if age >= 18:
 else:
     print("b")
 
-  #  Even or odd number check
-#progra number =1;
+    Even or odd number check
+progra number =1;
 num = int(input("enter a number: "))
 if num % 2 == 0:
     print("even Number") 
 else:
     print("odd number")   
+
     #program number =2;
     # cheak the age (Minor/Adult)
     age = int(input("Enter your age"))

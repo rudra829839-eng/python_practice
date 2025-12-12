@@ -1,0 +1,111 @@
+Day: 11
+
+# Assignment operator :-
+
+
+#+=  ( add and  assign )
+#-=  ( subtract and assign )
+# *=  ( multiply and assign )
+# /=  ( divide and assign )
+# %=  ( modulus and assign )
+# //= ( floor divide and assign )
+# **= ( exponent and assign )
+
+
+
+# a  = 10
+# b = 23
+
+# print( a + b)
+
+
+
+# a  = 10
+
+# b = 23
+
+# a = a + b     # OR a = 10 + 23  => a = 33 
+
+# print("the value of a is : ", a)
+
+
+
+# Time Complexity :-
+
+# => time taken by any code to run  is called time complexity.
+
+
+
+# Space Complexity :-
+# => space taken by any code to run is called space complexity.
+
+
+# +=  ( add and  assign )
+
+# a  = 10
+
+# b = 23
+
+# a += b     # OR a = a + b  => a = 10 + 23  => a = 33
+
+# print("the value of a is : ", a)
+
+# Note : a = a + b     and     a += b    both are same thing
+
+
+
+
+# a  = 33
+
+# b = 23
+
+# a = a - b     # OR a = a - b  => a = 33 - 23  => a = 10
+
+# print("the value of a is : ", a)
+
+
+# # -=  ( subtract and assign )
+
+# a  = 33
+
+# b = 23
+
+# a -= b     # OR a = a - b  => a = 33 - 23  => a = 10
+
+# print("the value of a is : ", a)
+
+Bus A => it takes 2 hours to reach the metro station.
+
+Bus B => it takes only 1 hour to reach the metro station.
+
+
+
+a = a + b   => it takes more time to run.
+
+a += b      => it takes less time to run.
+
+# Membership operator :-
+=> it is used to check the presence of value in a sequence like  list, tuple, string, set, dictionary etc.
+
+Rahul_family = [ 'ravi', 'rahul', 'rohan']
+
+print('rahul'  in Rahul_family)  ##   True
+
+print('Rudra' in Rahul_family)  ## False
+
+in => it returns true if value is present .
+
+not in => it returns true if value is not present .
+
+
+
+
+Rahul_family = [ 'ravi', 'rahul', 'rohan']  # list
+
+print('rahul'  in Rahul_family)  ##   True
+
+print('Rudra' in Rahul_family)  ## False 
+
+print('SHivam' not in Rahul_family)  # true
+
+print('ravi' not in Rahul_family)  # False

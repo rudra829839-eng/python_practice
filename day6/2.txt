@@ -1,0 +1,93 @@
+Day: 6
+Operators :-
+=> it can perform any specific task between two operands.
+
+Types of Operator:-
+
+# assignment operators
+## Logical Operators 
+## bitwise operators
+## Identify operators
+## Membership operators
+
+ Data TYpe:-
+
+integer => 55,56,33,22,12,2  
+
+float => 5.5, 6.1, 2.3, 8.9 
+
+string => "Rudra", "Tridev", "Vicky", "PRem"
+
+Boolean => True , False
+
+
+NOte: operands OR Variable 
+
+Onstant and Variable 
+
+ a + b = 30  , + => operator , a and b are Variables.
+
+ a * b = 200 , * => operator , a and b are variables
+
+
+ x = 20
+ y = 10  
+ print("Hii! Rudra , the difference between x and y is: ",  x - y )
+
+ => x and y are operands 
+ => "-" is operator.
+
+ 1. Arithmetic operators
+
+# => + (Addition)
+# => - (Subtraction)
+# => * (Multiplication)
+# => / (Division)     
+# => % (Modulus)
+# => ** (Exponentiation)
+# => // (Floor Division)
+
+# 4. Division operator ("/") :-
+# => it gives us Quotient value after performing division operations.
+# => it always returns float value.
+
+
+# x = 10 
+# y = 3
+# print("The division of x and y is: ", x / y)     ## 3.3333333
+
+# 5. Floor Division operator ("//") :-
+
+# => it also gives us aQuotient value after performing division operations.
+# => but it returns only Integer value .
+
+
+# x = 10 
+# y = 3
+# print("The floor division of x and y is: ", x // y)    #3
+
+
+# modulus operator ("%") :-
+# => it gives us the remaining value after performing the division operation.
+ 
+# x = 10 
+# y = 3
+# print("The modulus of x and y is: ", x % y)    
+
+
+# Exponentiation operator ("**") :-
+# => it gives us the power value after performing an exponentiation operation.
+
+# x = 10 
+# y = 3
+# print("The Exponentiation of x and y is: ", x ** y)   # 1000 
+
+# print("The Exponentiation of x and y is: ", y ** x)   # 59049 
+
+
+
+# x = 9
+# y = 3
+# print(x / y)
+
+
